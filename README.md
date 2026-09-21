@@ -10,6 +10,7 @@ their tractable Markovian approximations, and can a small structural extension d
 better than either?
 
 - Author: Nolan Genaine (EPFL, Bachelor of Mathematics)
+- Supervisor: Prof. Martin Hairer
 - Thesis PDF: [`docs/From_Rough_to_Lifted.pdf`](docs/From_Rough_to_Lifted.pdf)
 - Mathematical specification: [`docs/MODEL_SPEC.md`](docs/MODEL_SPEC.md)
 - Annotated bibliography: [`PAPERS.md`](PAPERS.md)
